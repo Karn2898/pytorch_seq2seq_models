@@ -31,6 +31,8 @@ An Introduction to Open Domain Question-Answering - QA system components and arc
 
 How to Build an Open-Domain Question Answering System? - Comprehensive guide to ODQA systems
 
+
+
 2. Text Summarization
 An abstractive text summarization model using encoder-decoder architecture to generate concise summaries from long documents.​
 
@@ -56,6 +58,8 @@ Research Papers
 Improving Sequence-to-Sequence Models for Abstractive Text Summarization - Advanced architecture enhancements​
 
 Deep learning for text summarization using NLP - Recent developments in summarization​
+
+
 3. Neural Machine Translation with Attention
 A seq2seq model implementing attention mechanism for improved translation quality and handling of long sequences.​
 
