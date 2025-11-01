@@ -41,7 +41,9 @@ Articles:
    
 An abstractive text summarization model using encoder-decoder architecture to generate concise summaries from long documents.​
 
-Features
+Features:
+
+
 Multi-layer LSTM encoder-decoder
 
 Teacher forcing during training
